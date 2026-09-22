@@ -29,6 +29,6 @@ void _CYCLIC ProgramCyclic(void)
 
 	FB_Motor(&fb_motor);
 	
-	fb_motor_2.u=Speed/1000;
+	fb_motor_2.u=Speed*fb_motor_2.ke;
 	FB_Motor(&fb_motor_2);
 }
