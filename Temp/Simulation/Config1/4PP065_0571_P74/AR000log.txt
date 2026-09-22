@@ -1,0 +1,45 @@
+Tue Sep 15 17:24:52 2026
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Tue Sep 15 17:24:52 2026
+No ARsim registration found!
+
+Tue Sep 15 17:24:52 2026
+InstanceName: 01dd451df934d420
+
+Tue Sep 15 17:24:52 2026
+WorkingDirectory: C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Temp\Simulation\Config1\4PP065_0571_P74\
+
+Tue Sep 15 17:24:52 2026
+COMMAND_COLDSTART
+
+Tue Sep 15 17:24:55 2026
+Version: D4.52
+
+Tue Sep 15 17:25:56 2026
+COMMAND_TERMINATE
+
+Tue Sep 15 17:25:56 2026
+COMMAND_COLDSTART
+
+Tue Sep 15 17:25:58 2026
+Version: D4.52
+
+Tue Sep 15 17:25:58 2026
+COMMAND_TERMINATE
+
+Tue Sep 15 17:25:59 2026
+COMMAND_COLDSTART
+
+Tue Sep 15 17:26:01 2026
+Version: D4.52
+
+Tue Sep 15 17:37:11 2026
+COMMAND_TERMINATE
+
+Tue Sep 15 17:37:11 2026
+COMMAND_COLDSTART
+
+Tue Sep 15 17:37:13 2026
+Version: D4.52
+
