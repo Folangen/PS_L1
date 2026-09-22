@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="134327469840000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="134327464780000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="134327464780000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="134327464780000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="134327464780000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="134327464780000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="134327464780000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="134327464780000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="134327464780000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="134327464780000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="134327464780000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="134327464800000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="134327464800000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="134327464800000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="134327464800000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="134327464800000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="134327464800000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Program\ANSIC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="134327469240000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Program\Cyclic.c"
+    LogicalPath="Program.Cyclic.c"
+    Type="File"
+    LastWriteTime="134339569640646670"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Program\Init.c"
+    LogicalPath="Program.Init.c"
+    Type="File"
+    LastWriteTime="134339576111465608"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Program\Exit.c"
+    LogicalPath="Program.Exit.c"
+    Type="File"
+    LastWriteTime="134327469240000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="134327469240000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="134335122768493424"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Library\ANSIC.lby"
+    LogicalPath="Library"
+    Type="Library"
+    LastWriteTime="134327497600000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Library\Types.typ"
+    LogicalPath="Library.Types.typ"
+    Type="File"
+    LastWriteTime="134327469840000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Library\Constants.var"
+    LogicalPath="Library.Constants.var"
+    Type="File"
+    LastWriteTime="134339536071645227"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Library\Library.fun"
+    LogicalPath="Library.Library.fun"
+    Type="File"
+    LastWriteTime="134327506500000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Library\FB_Integrator.c"
+    LogicalPath="Library.FB_Integrator.c"
+    Type="File"
+    LastWriteTime="134327506380000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Library\FB_Motor.c"
+    LogicalPath="Library.FB_Motor.c"
+    Type="File"
+    LastWriteTime="134339536071505600"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Logical\Library\FB_Regulator.c"
+    LogicalPath="Library.FB_Regulator.c"
+    Type="File"
+    LastWriteTime="134339583360662347"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="134327464820000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="134327537360000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="131865063240000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\Cpu.pkg"
+    LogicalPath="Config1.4PP065_0571_P74"
+    Type="Cpu"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\Cpu.sw"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.sw"
+    Type="File"
+    LastWriteTime="134339560030491615"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\Cpu.per"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.per"
+    Type="File"
+    LastWriteTime="134327464800000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\IoMap.iom"
+    LogicalPath="Config1.4PP065_0571_P74.IoMap.iom"
+    Type="File"
+    LastWriteTime="134327464800000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\PvMap.vvm"
+    LogicalPath="Config1.4PP065_0571_P74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="134327464800000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\Connectivity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\TextSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.TextSystem"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\UnitSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.UnitSystem"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="134327464800000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="134327464800000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\mappControl\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappControl"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\mappMotion\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappMotion"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\mappServices\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappServices"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\mappView\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappView"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\4PP065_0571_P74\mappCockpit\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappCockpit"
+    Type="Package"
+    LastWriteTime="134327464800000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\KRBO_01_23\LAB1KRBO0123\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="134339558381890135"
+    Private="false" />
+</Objects>
